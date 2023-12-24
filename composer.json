@@ -1,0 +1,17 @@
+{
+    "name": "highliuk/xstate",
+    "description": "State machines and statecharts for PHP development",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HighLiuk\\XState\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luca Di Fazio",
+            "email": "highliuk@gmail.com"
+        }
+    ]
+}
